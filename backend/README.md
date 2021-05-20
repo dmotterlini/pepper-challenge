@@ -3,5 +3,5 @@
 TODO
 
 ```bash
-pip3 install Authlib Flask
+sudo pip3 install Authlib Flask sqlalchemy
 ```
